@@ -1,2 +1,10 @@
 
-rthrft hrth rth rth rth rth rth
+This project uses pywhatkit to send WhatsApp messages in Python. Pywhatkit is a library that allows you to automate various tasks with WhatsApp, 
+such as sending messages, images, videos, documents, etc. 
+to intall pywhatkit, run this command "pip install pywhatkit"
+You can also perform other tasks like opening YouTube videos, searching Google, playing music, etc.
+
+To use this project, you need to install pywhatkit and have a valid phone number and WhatsApp account. 
+You can customize the message content, 
+recipient number, and sending time in the code. 
+This project is for educational purposes only and should not be used for spamming or violating WhatsApp's terms of service.
